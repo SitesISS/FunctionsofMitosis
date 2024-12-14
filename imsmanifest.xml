@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ncyOkXQrsT_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Mitosis – what it does 2024</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Mitosis_–_what_it_does_2024_ORG">
+    <organization identifier="Mitosis_–_what_it_does_2024_ORG">
+      <title>Mitosis – what it does 2024</title>
+      <item identifier="What_mitosis_does_SCO" isvisible="true" identifierref="__6ncyOkXQrsT_course_id_RES">
+        <title>Mitosis – what it does 2024</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ncyOkXQrsT_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5vmyWUw7aSH_80.jpg" />
+      <file href="mobile/5qgSrfzSHUm_X_80.jpg" />
+      <file href="mobile/5pL1s2GH7To_P_0_0_1496_1332.png" />
+      <file href="mobile/5qgSrfzSHUm_X_80_P_0_344_1579_1022.jpg" />
+      <file href="mobile/604gkXVNAvt_X_P_0_0_1109_1170.png" />
+      <file href="story_content/video_5p4woR8vTwt_22_48_720x404.mp4" />
+      <file href="mobile/poster_6a0NVtTB4E8_video_5p4woR8vTwt_22_48_720x404.jpg" />
+      <file href="story_content/video_5panAZTtzYR_22_48_720x404.mp4" />
+      <file href="mobile/poster_5rq9R70GB8W_video_5panAZTtzYR_22_48_720x404.jpg" />
+      <file href="mobile/68c4nqBGBjU_80_P_363_224_412_316.jpg" />
+      <file href="story_content/video_68FxuPulIjv_22_48_720x404.mp4" />
+      <file href="mobile/poster_6GoRBnpqRNX_video_68FxuPulIjv_22_48_720x404.jpg" />
+      <file href="mobile/6enyemiyurl.png" />
+      <file href="mobile/6ZhjWq3VcR5_M_1392_1392.png" />
+      <file href="mobile/5lsOQc6wbxm_M_984_984.png" />
+      <file href="mobile/6f4pUI2z6Cq_M_2152_2152_P_289_118_445_411.png" />
+      <file href="mobile/5jags32PFNr_M_1240_1240.png" />
+      <file href="mobile/5f5Js1d65qe_M_1440_1440.png" />
+      <file href="mobile/5f5Js1d65qe_M_1440_1440_P_343_151_205_43.png" />
+      <file href="mobile/6ETefS1Sfrl_M_1440_1440.png" />
+      <file href="mobile/6ci2i5TOwBP_P_0_0_658_1145.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cwSE3uNqP5.js" />
+      <file href="html5/data/js/5d8MMIiyXot.js" />
+      <file href="html5/data/js/5dACZFzMx8j.js" />
+      <file href="html5/data/js/5dkhs8chrlO.js" />
+      <file href="html5/data/js/5fCbnOMla6h.js" />
+      <file href="html5/data/js/5jMCaVsb0Ll.js" />
+      <file href="html5/data/js/5tuDtCWBk0k.js" />
+      <file href="html5/data/js/5W2bQPZ7YoD.js" />
+      <file href="html5/data/js/5XeTuyjyrpz.js" />
+      <file href="html5/data/js/5ZwoDLwquO8.js" />
+      <file href="html5/data/js/61Kye67wHbB.js" />
+      <file href="html5/data/js/65inMbQepGo.js" />
+      <file href="html5/data/js/65V11RBMBTz.js" />
+      <file href="html5/data/js/6GP8sdx0lbp.js" />
+      <file href="html5/data/js/6hi0hkL5b0S.js" />
+      <file href="html5/data/js/6I60tj9t4Sy.js" />
+      <file href="html5/data/js/6ISHrFYzX4h.js" />
+      <file href="html5/data/js/6Koi98x5Zc7.js" />
+      <file href="html5/data/js/6Prfmb677ar.js" />
+      <file href="html5/data/js/6UjASmSlmzD.js" />
+      <file href="html5/data/js/6XELelxv4vY.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
